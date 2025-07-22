@@ -39,7 +39,9 @@ They also provide a [BME690 Sensor API](https://github.com/boschsensortec/BME690
 
 Looking to get your hands on the BME690 Breakout Board?
 
-You can find it here: [Buy on Tindie](https://www.tindie.com/products/rwx_lab/bme690-breakout-board/)
+You can find it here: 
+- [Buy on eBay](https://ebay.us/m/MKWeic)
+- [Buy on Tindie](https://www.tindie.com/products/rwx_lab/bme690-breakout-board/)
 
 🔗 For more details and purchase options, check out the [Official Product Page](https://www.rwx-lab.dev/boards/bme690-breakout-board).
 

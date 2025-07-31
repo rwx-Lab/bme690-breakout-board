@@ -1,0 +1,3 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/rwx-Lab/bme690-breakout-board-api.git

@@ -31,6 +31,14 @@ This breakout board is based on the [Bosch BME690](https://www.bosch-sensortec.c
 
 ## 💻 Software & Examples
 
+### Raspberry Pi: pigpio Port
+
+For direct use of the BME690 on a Raspberry Pi, a dedicated port of the Bosch SensorAPI is provided in the [`api/`](api/) directory. This port is based on the [pigpio](http://abyz.me.uk/rpi/pigpio/) library and allows direct control of the sensor via the Pi's GPIOs.
+
+👉 For installation, build instructions, and example applications, see the section [Getting Started on Raspberry Pi](api/README.md#getting-started-on-raspberry-pi) in the API README.
+
+The pigpio port includes several example programs for different measurement modes and is tailored for use with the Raspberry Pi hardware.
+
 Bosch provides software on their [BME688 and BME690 software page](https://www.bosch-sensortec.com/software-tools/software/bme688-and-bme690-software/).
 
 They also provide a [BME690 Sensor API](https://github.com/boschsensortec/BME690_SensorAPI) on GitHub.
